@@ -1,6 +1,10 @@
 # DCMCP
 Data catalog MCP server using FastMCP running on Docker.
 
+For a plain‑language walkthrough of how this repo works and how to extend it, see:
+
+- docs/OVERVIEW.md
+
 ## 1. Install linux, wsl2, and docker desktop
 
 Follow these instructions up to installing Docker Desktop
